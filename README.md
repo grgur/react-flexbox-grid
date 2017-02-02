@@ -24,7 +24,7 @@ You must configure webpack to load flexboxgrid with [CSS Modules](https://github
 To do so, first add the loaders required as `devDependencies`:
 
 ```
-npm i -D npm style-loader css-loader
+npm i -D style-loader css-loader
 ```
 
 Then configure the loaders:
